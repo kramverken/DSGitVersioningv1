@@ -1,0 +1,21 @@
+{
+  "DataSetId": "141",
+  "DataSetName": "Loan Tape Norm",
+  "DataSetDescription": null,
+  "SourceId": "-1",
+  "SourceTypeId": "-1",
+  "DataSetTypeId": null,
+  "RadTransportName": "",
+  "TableName": "",
+  "TableType": null,
+  "GranularityColumn": "",
+  "SourceColumn": "",
+  "AsofdateColumn": "",
+  "ExtraInfo": "{\"DSPrimaryKeyColumns\": \"\", \"DataCorrectionEnabled\": false}",
+  "TagId": "-1",
+  "SyncedOn": null,
+  "IsPublished": false,
+  "ForView": false,
+  "TransportType": "SQL",
+  "DataSetType": null
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "MappingId": "9930514356950528",
+    "DestinationDatasetId": "9930389081478656",
+    "SourceDatasetId": "9930373835183616",
+    "MapType": 2,
+    "CalcRes": null,
+    "Calculation": null,
+    "DestinationAttributeId": "9930399961765438",
+    "SourceAttributeId": "9930380196632125",
+    "DictionaryVersion": "1",
+    "FilterClause": null,
+    "Formula": null,
+    "FunctionalCategory": null,
+    "IsKey": false,
+    "IsMandatory": false,
+    "IsPii": false,
+    "IsRollover": null,
+    "IsUnique": false,
+    "LookupAttributeName": "Fund Description",
+    "LookupDatasetId": "9773451926738944",
+    "LookupGroup": null,
+    "LookupLevel": null,
+    "PickAttributeName": null,
+    "RadObject": null,
+    "RolloverTypeId": null,
+    "UniquenessGroup": null
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "DataSetId": "9316364580677632",
+  "DataSetName": "SmokeAutomation_Destination_Dataset_2570",
+  "DataSetDescription": null,
+  "SourceId": null,
+  "SourceTypeId": null,
+  "DataSetTypeId": null,
+  "RadTransportName": "EDMSmokeAutomation",
+  "TableName": "[dbo].[SmokeAutomation_destination_dataset_table]",
+  "TableType": null,
+  "GranularityColumn": null,
+  "SourceColumn": null,
+  "AsofdateColumn": null,
+  "ExtraInfo": "{\"DataCorrectionEnabled\":false,\"DSPrimaryKeyColumns\":\"\",\"SuperKeysColumn\":\"\",\"Steward\":\"TestCSC\",\"AutoSignOff\":false,\"TriggerPipe\":\"\"}",
+  "TagId": null,
+  "SyncedOn": null,
+  "IsPublished": false,
+  "ForView": false,
+  "TransportType": "SQL",
+  "DataSetType": null
+}

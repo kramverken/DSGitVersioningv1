@@ -1,0 +1,21 @@
+{
+  "DataSetId": "282",
+  "DataSetName": "Loan_Account_Fund",
+  "DataSetDescription": null,
+  "SourceId": "-1",
+  "SourceTypeId": "-1",
+  "DataSetTypeId": null,
+  "RadTransportName": "PolarisDev",
+  "TableName": "[dimension].[vw_ivp_polaris_Loan_Account_Fund]",
+  "TableType": null,
+  "GranularityColumn": null,
+  "SourceColumn": null,
+  "AsofdateColumn": null,
+  "ExtraInfo": null,
+  "TagId": "-1",
+  "SyncedOn": null,
+  "IsPublished": true,
+  "ForView": false,
+  "TransportType": "SQL",
+  "DataSetType": null
+}

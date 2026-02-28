@@ -1,0 +1,21 @@
+{
+  "DataSetId": "7708810345303040",
+  "DataSetName": "50c150KRows",
+  "DataSetDescription": null,
+  "SourceId": "-1",
+  "SourceTypeId": "-1",
+  "DataSetTypeId": null,
+  "RadTransportName": "SmokeTransport",
+  "TableName": "[dbo].[p150k50c]",
+  "TableType": null,
+  "GranularityColumn": null,
+  "SourceColumn": null,
+  "AsofdateColumn": null,
+  "ExtraInfo": "{\"DataCorrectionEnabled\":false,\"DSPrimaryKeyColumns\":\"\",\"SuperKeysColumn\":\"\",\"Steward\":\"\",\"AutoSignOff\":false,\"TriggerPipe\":\"\"}",
+  "TagId": "-1",
+  "SyncedOn": null,
+  "IsPublished": false,
+  "ForView": false,
+  "TransportType": "SQL",
+  "DataSetType": null
+}

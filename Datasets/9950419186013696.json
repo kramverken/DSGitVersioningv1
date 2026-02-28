@@ -1,0 +1,21 @@
+{
+  "DataSetId": "9950419186013696",
+  "DataSetName": "madhurDataset2",
+  "DataSetDescription": null,
+  "SourceId": null,
+  "SourceTypeId": null,
+  "DataSetTypeId": null,
+  "RadTransportName": "edmqa_210",
+  "TableName": "[dbo].[madhurTable2]",
+  "TableType": null,
+  "GranularityColumn": null,
+  "SourceColumn": null,
+  "AsofdateColumn": null,
+  "ExtraInfo": "{\"DataCorrectionEnabled\":false,\"DSPrimaryKeyColumns\":\"\",\"SuperKeysColumn\":\"\",\"Steward\":\"edm_QA_group\",\"AutoSignOff\":false,\"TriggerPipe\":\"\"}",
+  "TagId": null,
+  "SyncedOn": null,
+  "IsPublished": true,
+  "ForView": false,
+  "TransportType": "SQL",
+  "DataSetType": null
+}

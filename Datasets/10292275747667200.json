@@ -1,0 +1,21 @@
+{
+  "DataSetId": "10292275747667200",
+  "DataSetName": "Browserstack_SA_pend_ch_Desti_dataset",
+  "DataSetDescription": null,
+  "SourceId": null,
+  "SourceTypeId": null,
+  "DataSetTypeId": null,
+  "RadTransportName": "QA_DWH",
+  "TableName": "[dbo].[SmokeAutomation_Staging_fund]",
+  "TableType": null,
+  "GranularityColumn": null,
+  "SourceColumn": null,
+  "AsofdateColumn": null,
+  "ExtraInfo": "{\"DataCorrectionEnabled\":false,\"DSPrimaryKeyColumns\":\"\",\"SuperKeysColumn\":\"\",\"Steward\":\"\",\"AutoSignOff\":false,\"TriggerPipe\":\"\"}",
+  "TagId": null,
+  "SyncedOn": null,
+  "IsPublished": false,
+  "ForView": false,
+  "TransportType": "SQL",
+  "DataSetType": null
+}

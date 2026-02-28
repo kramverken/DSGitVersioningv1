@@ -1,0 +1,21 @@
+{
+  "DataSetId": "9954846233515520",
+  "DataSetName": "madhurDict_3_A+B___clone_destination_ds",
+  "DataSetDescription": null,
+  "SourceId": "-1",
+  "SourceTypeId": "-1",
+  "DataSetTypeId": null,
+  "RadTransportName": "edmqa_210",
+  "TableName": "[dbo].[madhurTable3b]",
+  "TableType": null,
+  "GranularityColumn": null,
+  "SourceColumn": null,
+  "AsofdateColumn": null,
+  "ExtraInfo": "{\"DataCorrectionEnabled\":false,\"DSPrimaryKeyColumns\":\"\",\"SuperKeysColumn\":\"\",\"Steward\":\"edm_QA_group\",\"AutoSignOff\":false,\"TriggerPipe\":\"\"}",
+  "TagId": "-1",
+  "SyncedOn": null,
+  "IsPublished": false,
+  "ForView": false,
+  "TransportType": "SQL",
+  "DataSetType": null
+}

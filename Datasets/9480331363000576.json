@@ -1,0 +1,21 @@
+{
+  "DataSetId": "9480331363000576",
+  "DataSetName": "test_dataset_Madh_01_copy",
+  "DataSetDescription": null,
+  "SourceId": null,
+  "SourceTypeId": null,
+  "DataSetTypeId": null,
+  "RadTransportName": "QA_DWH",
+  "TableName": "[dbo].[test_table_Madh_01_copy]",
+  "TableType": null,
+  "GranularityColumn": null,
+  "SourceColumn": null,
+  "AsofdateColumn": "as_of_date",
+  "ExtraInfo": "{\"DataCorrectionEnabled\":false,\"DSPrimaryKeyColumns\":\"\",\"SuperKeysColumn\":\"\",\"Steward\":\"\",\"AutoSignOff\":false,\"TriggerPipe\":\"\"}",
+  "TagId": null,
+  "SyncedOn": null,
+  "IsPublished": null,
+  "ForView": false,
+  "TransportType": "SQL",
+  "DataSetType": null
+}

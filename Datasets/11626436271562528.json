@@ -1,0 +1,21 @@
+{
+  "DataSetId": "11626436271562528",
+  "DataSetName": "SmokeAutomation_Norm_fund_4565_Clone",
+  "DataSetDescription": null,
+  "SourceId": "-1",
+  "SourceTypeId": "-1",
+  "DataSetTypeId": null,
+  "RadTransportName": "QA_DWH",
+  "TableName": "[dbo].[Expected_SmokeAutomation_Norm_fund_Table]",
+  "TableType": null,
+  "GranularityColumn": null,
+  "SourceColumn": null,
+  "AsofdateColumn": null,
+  "ExtraInfo": "{\"DataCorrectionEnabled\":false,\"DSPrimaryKeyColumns\":\"\",\"SuperKeysColumn\":\"\",\"Steward\":\"edm_QA_group\",\"AutoSignOff\":false,\"TriggerPipe\":\"\"}",
+  "TagId": "-1",
+  "SyncedOn": null,
+  "IsPublished": false,
+  "ForView": false,
+  "TransportType": "SQL",
+  "DataSetType": null
+}

@@ -1,0 +1,24 @@
+{
+  "DataSetId": "9778166516848640",
+  "DataSetName": "TestSmoke_Source_03",
+  "DataSetDescription": null,
+  "SourceId": null,
+  "SourceTypeId": null,
+  "DataSetTypeId": "6913917382318080",
+  "RadTransportName": "EDMSmokeAutomation",
+  "TableName": "[dbo].[testsmoke_DataDictionary_Staging]",
+  "TableType": null,
+  "GranularityColumn": "_ID",
+  "SourceColumn": "_ID",
+  "AsofdateColumn": "date",
+  "ExtraInfo": "{\"DataCorrectionEnabled\":false,\"DSPrimaryKeyColumns\":\"\",\"SuperKeysColumn\":\"\",\"Steward\":\"browserStack_group1\",\"AutoSignOff\":false,\"TriggerPipe\":\"\"}",
+  "TagId": null,
+  "SyncedOn": null,
+  "IsPublished": false,
+  "ForView": false,
+  "TransportType": "SQL",
+  "DataSetType": {
+    "dataSetTypeId": "6913917382318080",
+    "dataSetTypeName": "Security/Reference"
+  }
+}

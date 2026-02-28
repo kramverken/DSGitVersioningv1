@@ -1,0 +1,7 @@
+{
+  "DictionaryId": "18",
+  "DictionaryName": "Loan Tape Staging to Norm",
+  "SourceDatasetId": "140",
+  "DestinationDatasetId": "141",
+  "IsStandard": false
+}

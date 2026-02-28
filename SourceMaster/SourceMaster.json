@@ -1,14 +1,1 @@
-{
-  "Sources": [
-    {
-      "SourceId": 1,
-      "SourceName": "Bloomberg",
-      "IsActive": true
-    },
-    {
-      "SourceId": 2,
-      "SourceName": "Reuters",
-      "IsActive": true
-    }
-  ]
-}
+{}
