@@ -1,12 +1,12 @@
 {
   "Database": "IVPDataservice",
-  "LastCommittedAt": "2026-02-28T18:37:51.7164917+00:00",
+  "LastCommittedAt": "2026-02-28T19:59:52.55562+00:00",
   "CommittedBy": null,
   "EntityCounts": {
-    "Datasets": 522,
-    "Dictionaries": 464,
-    "Dictionaries/DatasetAttributes": 471,
-    "Dictionaries/DatasetAttributeMappings": 168,
+    "Datasets": 2,
+    "Dictionaries": 2,
+    "Dictionaries/DatasetAttributes": 2,
+    "Dictionaries/DatasetAttributeMappings": 1,
     "SourceMaster": 1,
     "ExportMeta": 1
   },

@@ -1,8 +1,6 @@
 {
-  "DictionaryId": "11835881396856576",
-  "DictionaryName": "SmokeAutomation_Dictionary_6211",
-  "SourceDatasetId": "11835837022693120",
-  "DestinationDatasetId": "11835863913162496",
-  "IsStandard": false,
-  "ModifiedDate": "2026-02-28T14:30:00Z"
+  "DictionaryId": 11835881396856576,
+  "DictionaryName": "CountryCodeLookup",
+  "Description": "ISO country codes",
+  "IsActive": true
 }

@@ -1,8 +1,0 @@
-[
-  {
-    "AttributeId": 90001,
-    "AttributeName": "TestAttr_A1",
-    "DataType": "String",
-    "IsMandatory": true
-  }
-]
