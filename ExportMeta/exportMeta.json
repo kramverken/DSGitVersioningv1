@@ -1,11 +1,11 @@
 {
-  "ExportedAt": "2026-02-28T12:00:00Z",
+  "ExportedAt": "2026-02-28T10:00:00Z",
   "ExportedBy": "TestUser",
   "Environment": "DEV",
-  "Version": "2.0",
+  "Version": "1.0",
   "DatabaseName": "IVPDataservice",
   "Entities": {
     "Datasets": 2,
-    "Dictionaries": 3
+    "Dictionaries": 2
   }
 }
