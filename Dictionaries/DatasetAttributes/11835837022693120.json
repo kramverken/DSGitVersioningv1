@@ -16,5 +16,11 @@
     "AttributeName": "Country",
     "DataType": "String",
     "IsMandatory": false
+  },
+  {
+    "AttributeId": 1004,
+    "AttributeName": "Region",
+    "DataType": "String",
+    "IsMandatory": false
   }
 ]
