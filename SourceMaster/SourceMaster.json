@@ -9,6 +9,11 @@
       "SourceId": 2,
       "SourceName": "Reuters",
       "IsActive": true
+    },
+    {
+      "SourceId": 3,
+      "SourceName": "ICE",
+      "IsActive": true
     }
   ]
 }

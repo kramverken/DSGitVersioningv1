@@ -1,7 +1,8 @@
 {
   "DataSetId": 11835837022693120,
   "DataSetName": "Organization",
-  "Description": "Organization master data",
+  "Description": "Organization master data \u2014 updated with region support",
   "IsActive": true,
-  "CreatedDate": "2025-11-01T00:00:00Z"
+  "CreatedDate": "2025-11-01T00:00:00Z",
+  "ModifiedDate": "2026-02-28T12:00:00Z"
 }
