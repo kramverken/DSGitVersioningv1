@@ -1,0 +1,20 @@
+[
+  {
+    "AttributeId": 1001,
+    "AttributeName": "OrgName",
+    "DataType": "String",
+    "IsMandatory": true
+  },
+  {
+    "AttributeId": 1002,
+    "AttributeName": "OrgCode",
+    "DataType": "String",
+    "IsMandatory": true
+  },
+  {
+    "AttributeId": 1003,
+    "AttributeName": "Country",
+    "DataType": "String",
+    "IsMandatory": false
+  }
+]
