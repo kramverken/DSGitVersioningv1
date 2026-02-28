@@ -1,19 +1,19 @@
 [
   {
-    "AttributeId": 1001,
-    "AttributeName": "OrgName",
+    "AttributeId": 2001,
+    "AttributeName": "ISIN",
     "DataType": "String",
     "IsMandatory": true
   },
   {
-    "AttributeId": 1002,
-    "AttributeName": "OrgCode",
+    "AttributeId": 2002,
+    "AttributeName": "InstrumentName",
     "DataType": "String",
     "IsMandatory": true
   },
   {
-    "AttributeId": 1003,
-    "AttributeName": "Country",
+    "AttributeId": 2003,
+    "AttributeName": "Currency",
     "DataType": "String",
     "IsMandatory": false
   }
